@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atharva272001
+- 👋 Hi, I’m @Atharva2706
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning LAST YEAR OF ENGINEERING
 - 💞️ I’m looking to collaborate on FULL STACK DEVELOPEMENT
